@@ -247,7 +247,7 @@ async def next_page(bot, query):
         InlineKeyboardButton("ʟᴀɴɢᴜᴀɢᴇs", callback_data=f"select_lang#{req}")
     ])
     btn.insert(0, [
-        InlineKeyboardButton("🫶🏻 𝐊𝐌𝐒 𝐔𝐏𝐃𝐀𝐓𝐄𝐙 🫶🏻", url=HOW_TO_DOWNLD)
+        InlineKeyboardButton("ıllıllı⭐🌟 K͙M͙S͙ U͙P͙D͙A͙T͙E͙Z͙ 🌟⭐ıllıllı", url=HOW_TO_DOWNLD)
     ])
     try:
         await query.edit_message_reply_markup(
@@ -360,7 +360,7 @@ async def language_check(bot, query):
         ])
 
         btn.insert(0, [
-            InlineKeyboardButton("🫶🏻 𝐊𝐌𝐒 𝐔𝐏𝐃𝐀𝐓𝐄𝐙 🫶🏻", url=HOW_TO_DOWNLD)
+            InlineKeyboardButton("ıllıllı⭐🌟 K͙M͙S͙ U͙P͙D͙A͙T͙E͙Z͙ 🌟⭐ıllıllı", url=HOW_TO_DOWNLD)
         ])
 
         if offset != "":
@@ -1635,7 +1635,7 @@ async def auto_filter(client, msg, spoll=False):
     ])
 
     btn.insert(0, [
-        InlineKeyboardButton("🫶🏻 𝐊𝐌𝐒 𝐔𝐏𝐃𝐀𝐓𝐄𝐙 🫶🏻", url=HOW_TO_DOWNLD)
+        InlineKeyboardButton("ıllıllı⭐🌟 K͙M͙S͙ U͙P͙D͙A͙T͙E͙Z͙ 🌟⭐ıllıllı", url=HOW_TO_DOWNLD)
     ])
 
     if offset != "":
