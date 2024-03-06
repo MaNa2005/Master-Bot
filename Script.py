@@ -14,7 +14,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 ✯ Lɪʙʀᴀʀʏ: <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a>
 ✯ Lᴀɴɢᴜᴀɢᴇ: <a href='https://www.python.org/download/releases/3.0/'>ᴘʏᴛʜᴏɴ 3</a>
 ✯ DᴀᴛᴀBᴀsᴇ: <a href='https://www.mongodb.com/'>ᴍᴏɴɢᴏ ᴅʙ</a>
-✯ Bᴏᴛ Sᴇʀᴠᴇʀ: <a href='https://heroku.com'>ʜᴇʀᴏᴋᴜ</a>
+✯ Bᴏᴛ Sᴇʀᴠᴇʀ: <a href='https://koyeb.com'>koyeb</a>
 </b>"""
     SOURCE_TXT = """<b>ɴᴏᴛᴇ:
 - ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ᴀɴ ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ.
